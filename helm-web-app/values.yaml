@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: nikbth007/webserver:v3
+  repository: nginx
   tag: stable
   pullPolicy: IfNotPresent
 
