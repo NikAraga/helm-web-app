@@ -1,1 +1,1 @@
-# NginxHelmLB
+# Example Helm Chart
