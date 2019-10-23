@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: nikbth007/webserver
-  tag: v4
+  tag: v3
   pullPolicy: IfNotPresent
 
 imagePullSecrets: []
